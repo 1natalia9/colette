@@ -330,7 +330,7 @@ img {
     font-weight: 500;
   }
   .bady__right__galeri {
-    margin-top: -15px;
+    margin-top: -80px;
     display: grid;
     width: 100%;
     height: auto;
@@ -352,7 +352,7 @@ img {
   .section {
     display: grid;
     width: 100%;
-    height: 600px;
+    height: 650px;
     background-color: #f7f7f7;
     display: inline-block;
     font-family: "Roboto Flex", sans-serif;
