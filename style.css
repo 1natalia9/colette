@@ -314,7 +314,7 @@ img {
   .bady {
     display: grid;
     width: 100%;
-    height: 1200px;
+    height: 1300px;
     background-color: #1f1f1f;
     color: white;
     font-family: "Roboto Flex", sans-serif;
@@ -331,9 +331,8 @@ img {
     
   }
   .bady__right__galeri {
-    margin-top: -28%;
     display: grid;
-    width: 900px;
+    width: 100%;
     height: auto;
     justify-content: center;
     gap: 5px;
@@ -353,7 +352,7 @@ img {
   .section {
     display: grid;
     width: 100%;
-    height: 500px;
+    height: 600px;
     background-color: #f7f7f7;
     display: inline-block;
     font-family: "Roboto Flex", sans-serif;
@@ -370,10 +369,9 @@ img {
   }
   .section__right {
     display: grid;
-    padding-top: 50px;
     text-align: left;
-    justify-content: center;
     width: 300px;
+    justify-content: center;
     margin: 0 auto;
   }
   .section__right h1 {
@@ -387,8 +385,6 @@ img {
     font-weight: 300;
   }
   .section__right h3 {
-    padding: auto;
-    padding-top: 20px;
     font-size: 16px;
     color: #1f1f1f;
     font-weight: 300;
