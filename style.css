@@ -300,13 +300,14 @@ img {
     color: white;
     font-family: "Roboto Flex", sans-serif;
     font-weight: bold;
+    top: 50%;
+    transform: translateY(-50%);
   }
   .header__title h1 {
     position: relative;
     text-align: center;
     font-size: 27px;
     font-weight: bold;
-    margin-top: 10%;
   }
   .header__title p {
     font-size: 8px;
